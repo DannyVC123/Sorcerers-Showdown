@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/Sorcers-Showdown-Project/[Ll]ibrary/
-/Sorcers-Showdown-Project/[Tt]emp/
-/Sorcers-Showdown-Project/[Oo]bj/
-/Sorcers-Showdown-Project/[Bb]uild/
-/Sorcers-Showdown-Project/[Bb]uilds/
-/Sorcers-Showdown-Project/[Ll]ogs/
-/Sorcers-Showdown-Project/[Uu]ser[Ss]ettings/
+/Sorcerers-Showdown-Project/[Ll]ibrary/
+/Sorcerers-Showdown-Project/[Tt]emp/
+/Sorcerers-Showdown-Project/[Oo]bj/
+/Sorcerers-Showdown-Project/[Bb]uild/
+/Sorcerers-Showdown-Project/[Bb]uilds/
+/Sorcerers-Showdown-Project/[Ll]ogs/
+/Sorcerers-Showdown-Project/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

@@ -14,18 +14,18 @@ A wizard controlled by the player. The wizard moves left or right across the scr
 Various goblin creatures with a series of shapes above their head. Goblins spawn randomly in waves and constantly move toward the player. The player can attack a goblin by drawing the shapes above the enemy on the screen in the given order.
 
 ### Shapes
-- **Red horizontal line**
-- **Blue vertical line**
-- **Yellow V**
-- **Green upside-down V**
+- Red horizontal line
+- Blue vertical line
+- Yellow V
+- Green upside-down V
 
 The player draws one of the four shapes to attack an enemy. If the shape is drawn correctly, it lights up with its corresponding color, signaling the spell was successfully cast.
 
-## UI Elements
-- **Score Display**
-- **3 Lives**
-- **Wave Number**
-- **Win/Loss Message**
+### UI Elements
+- Score Display
+- 3 Lives
+- Wave Number
+- Win/Loss Message
 
 ## Player Controls
 
